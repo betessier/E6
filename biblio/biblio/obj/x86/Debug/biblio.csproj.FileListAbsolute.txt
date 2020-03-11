@@ -1,0 +1,7 @@
+c:\users\btessier\documents\visual studio 2010\Projects\biblio\biblio\bin\Debug\biblio.exe
+c:\users\btessier\documents\visual studio 2010\Projects\biblio\biblio\bin\Debug\biblio.pdb
+c:\users\btessier\documents\visual studio 2010\Projects\biblio\biblio\bin\Debug\dllBibliothèque.dll
+c:\users\btessier\documents\visual studio 2010\Projects\biblio\biblio\bin\Debug\dllBibliothèque.xml
+c:\users\btessier\documents\visual studio 2010\Projects\biblio\biblio\obj\x86\Debug\biblio.csprojResolveAssemblyReference.cache
+c:\users\btessier\documents\visual studio 2010\Projects\biblio\biblio\obj\x86\Debug\biblio.exe
+c:\users\btessier\documents\visual studio 2010\Projects\biblio\biblio\obj\x86\Debug\biblio.pdb
