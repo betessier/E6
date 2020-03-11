@@ -1,0 +1,4 @@
+C:\Users\btessier\documents\visual studio 2010\Projects\TpLaGrandeCourseDesLapins\TpLaGrandeCourseDesLapins\bin\Debug\TpLaGrandeCourseDesLapins.exe
+C:\Users\btessier\documents\visual studio 2010\Projects\TpLaGrandeCourseDesLapins\TpLaGrandeCourseDesLapins\bin\Debug\TpLaGrandeCourseDesLapins.pdb
+C:\Users\btessier\documents\visual studio 2010\Projects\TpLaGrandeCourseDesLapins\TpLaGrandeCourseDesLapins\obj\x86\Debug\TpLaGrandeCourseDesLapins.exe
+C:\Users\btessier\documents\visual studio 2010\Projects\TpLaGrandeCourseDesLapins\TpLaGrandeCourseDesLapins\obj\x86\Debug\TpLaGrandeCourseDesLapins.pdb
