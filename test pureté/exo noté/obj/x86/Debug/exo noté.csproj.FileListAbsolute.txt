@@ -1,0 +1,4 @@
+c:\users\btessier\documents\visual studio 2010\Projects\exo noté\exo noté\bin\Debug\exo noté.exe
+c:\users\btessier\documents\visual studio 2010\Projects\exo noté\exo noté\bin\Debug\exo noté.pdb
+c:\users\btessier\documents\visual studio 2010\Projects\exo noté\exo noté\obj\x86\Debug\exo noté.exe
+c:\users\btessier\documents\visual studio 2010\Projects\exo noté\exo noté\obj\x86\Debug\exo noté.pdb
