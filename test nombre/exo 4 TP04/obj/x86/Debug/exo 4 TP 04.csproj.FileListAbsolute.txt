@@ -1,0 +1,4 @@
+C:\Users\btessier\documents\visual studio 2010\Projects\Exo 1 TP 04\exo 4 TP04\bin\Debug\exo 4 TP04.exe
+C:\Users\btessier\documents\visual studio 2010\Projects\Exo 1 TP 04\exo 4 TP04\bin\Debug\exo 4 TP04.pdb
+C:\Users\btessier\documents\visual studio 2010\Projects\Exo 1 TP 04\exo 4 TP04\obj\x86\Debug\exo 4 TP04.exe
+C:\Users\btessier\documents\visual studio 2010\Projects\Exo 1 TP 04\exo 4 TP04\obj\x86\Debug\exo 4 TP04.pdb
