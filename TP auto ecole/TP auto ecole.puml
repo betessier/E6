@@ -1,0 +1,13 @@
+@startuml
+    class moniteur{
+        <u> id </u>
+        nom
+        dateEmbauche
+    }
+    class leçon{
+       <u> id </u>
+       dateLeçon
+       heureLeçon
+    }
+moniteur "1..1 est donné "--"1..*\ndonné"leçon:donner
+@enduml
