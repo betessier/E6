@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="exo_2_polymorphisme.Modèle" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAECAAAIAQBEAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Modèle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="optionsModèle" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="exo_2_polymorphisme.Option" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAIEAgAA=</HashCode>
+      <FileName>Option.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exo_2_polymorphisme.Vehicule" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAECAAAAAQBAAAAAAAAACAAAAAQAAA=</HashCode>
+      <FileName>Vehicule.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="optionsBase" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="exo_2_polymorphisme.Voiture">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <AssociationLine Name="possède" Type="exo_2_polymorphisme.Modèle" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.344" Y="2.117" />
+        <Point X="6.344" Y="2.25" />
+        <Point X="4.812" Y="2.25" />
+        <Point X="4.812" Y="2.5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAEAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Voiture.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="possède" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
