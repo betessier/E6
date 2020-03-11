@@ -1,0 +1,6 @@
+c:\users\btessier\documents\visual studio 2010\Projects\ManipIp\ManipIp\bin\Debug\ManipIp.exe
+c:\users\btessier\documents\visual studio 2010\Projects\ManipIp\ManipIp\bin\Debug\ManipIp.pdb
+c:\users\btessier\documents\visual studio 2010\Projects\ManipIp\ManipIp\bin\Debug\adresseIp.dll
+c:\users\btessier\documents\visual studio 2010\Projects\ManipIp\ManipIp\obj\x86\Debug\ManipIp.csprojResolveAssemblyReference.cache
+c:\users\btessier\documents\visual studio 2010\Projects\ManipIp\ManipIp\obj\x86\Debug\ManipIp.exe
+c:\users\btessier\documents\visual studio 2010\Projects\ManipIp\ManipIp\obj\x86\Debug\ManipIp.pdb
