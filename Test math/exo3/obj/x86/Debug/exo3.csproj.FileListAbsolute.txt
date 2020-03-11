@@ -1,0 +1,4 @@
+c:\users\btessier\documents\visual studio 2010\Projects\exo 1 tp 05\exo3\bin\Debug\exo3.exe
+c:\users\btessier\documents\visual studio 2010\Projects\exo 1 tp 05\exo3\bin\Debug\exo3.pdb
+c:\users\btessier\documents\visual studio 2010\Projects\exo 1 tp 05\exo3\obj\x86\Debug\exo3.exe
+c:\users\btessier\documents\visual studio 2010\Projects\exo 1 tp 05\exo3\obj\x86\Debug\exo3.pdb
